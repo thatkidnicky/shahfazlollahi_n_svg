@@ -1,0 +1,93 @@
+@charset "utf-8";
+/*CSS document*/
+
+.hidden
+{
+	display: none;
+}
+
+body
+{
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 15px;
+}
+
+
+#title
+{
+	text-align: center;
+
+}
+
+#body
+{
+	background-color: #6cd9b5;
+}
+
+
+.box
+{
+	width: 1300px;
+	margin: 0 auto;
+	padding-top: 50px;
+	background color: #55ab97;
+}
+
+
+.icons
+{
+	margin: 0 auto;
+	padding-top: 75px;
+	letter-spacing: 1px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+
+
+.iconDisplay
+{
+	width: 1200px;
+	text-align: center;
+	margin: 0 auto;
+}
+
+ object 
+ {
+ 	width: 180px;
+ 	height: 180px;
+ 	padding: 10px 10px;
+ }
+
+ .iconContainer
+ {
+ 	width: 200px;
+ 	height: 320px;
+ 	background-color: #478c83;
+ 	display: flex;
+ 	flex-direction: column;
+ 	align-items: center;
+ }
+
+ .textBox 
+ {
+ 	width: 200px;
+ 	height: 150px;
+ 	background-color: #FFFFFF;
+ }
+
+ h4
+ {
+ 	font-size: 17px;
+ }
+
+ p
+ {
+ 	padding: 0px 10px;
+ }
+
+
+
+
+
